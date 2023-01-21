@@ -1,7 +1,7 @@
 # Basketball Scoreboard
 This is an application built using basic javascript concepts such as functions and increment. 
 
-It is used to record the scores of teams in a basketball match.
+It is used to record the scores of teams in a basketball game.
 
 ## App features
 
@@ -15,12 +15,9 @@ It is used to record the scores of teams in a basketball match.
 - Javascript
 
 ## Links
-Live link - 
+Live link - https://neon-pika-61ac81.netlify.app/
 
-## Mobile view
-
-![image info](/assets/WhatsApp%20Image%202023-01-20%20at%2001.44.30.jpeg)
 
 ## Desktop view
 
-![Desktop view](/assets/screencapture-steady-tulumba-5dc5a1-netlify-app-2023-01-20-01_42_59.png)
+![Desktop view](/assets/screencapture-neon-pika-61ac81-netlify-app-2023-01-21-09_38_13%20(1).png)
