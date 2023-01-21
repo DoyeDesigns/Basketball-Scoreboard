@@ -15,7 +15,7 @@ It is used to record the scores of teams in a basketball game.
 - Javascript
 
 ## Links
-Live link - https://neon-pika-61ac81.netlify.app/
+Live link - https://basketball-scoreboard-by-edoye.netlify.app/
 
 
 ## Desktop view
