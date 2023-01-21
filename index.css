@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Silkscreen&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    font-family: 'Silkscreen', cursive;
+    margin-top: 1.25rem;
+    color: #A78BFA;
+}
+
+.header span {
+    color: #F94F6D;
+}
+
+.container {
+    display: flex;
+    height: 24.0625rem;
+    width: 35.9375rem;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    margin-top: 3.125rem;
+    background-color: #5B21B6;
+    border-radius: .3125rem;
+}
+
+.container h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    color: #DDD6FE;
+    border-style: inset;
+}
+
+h2 {
+    font-family: 'Silkscreen', cursive;
+    font-size: 5.625rem;
+    text-align: center;
+    color: #F94F6D;
+    font-size: 5.625rem;
+}
+
+.score-background {
+    width: 9.6875rem;
+    height: 7.5rem;
+    background-color: white;
+    margin-top: 1.3125rem;
+    margin-bottom: 1.625rem;
+    border-radius: .3125rem;
+}
+
+.pointers {
+    display: flex;
+    height: 2.8125rem;
+    width: 9.6875rem;
+    justify-content: space-between;
+}
+
+.point {
+    height: 2.8125rem;
+    width: 2.8125rem;
+    border: #A78BFA solid;
+    border-radius: .3125rem;
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+    font-size: 1.125rem;
+    color: #A78BFA;
+    background-color: #5B21B6;
+}
+
+.point:hover{
+    cursor: pointer;
+}
+
+.reset-btn{
+    width: 9.375rem;
+    height: 1.875rem;
+    margin-top: 1.875rem;
+    border: none;
+    background: none;
+    color: #5B21B6;
+    font-size: 1.5625rem;
+    text-transform: uppercase;
+    font-family: 'Silkscreen', cursive;
+}
+
+.reset-btn:hover {
+    border-bottom: #5B21B6 solid;
+    cursor: pointer;
+}
+
+main {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
